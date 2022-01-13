@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*글꼴은 제일 먼저 적용하기*/
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+*{
+	magin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+a{text-decoration:none; color:#333;}
+ul, ol, li {list-style:none}
+a:focus, a:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+table td{
+	text-align:center;
+}
