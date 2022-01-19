@@ -22,7 +22,8 @@ if(cookie != null){//만약 쿠키가 null이 아니라면
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Teddy Bear</title>
+    <title>TEDDY BEAR</title>
+     <link href="images/bearFavicon.ico" rel="shortcut icon">
 <!-- 부트 - 커먼 - 메인 - 서브 순 -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
