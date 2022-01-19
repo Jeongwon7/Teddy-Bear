@@ -1,7 +1,3 @@
-
-
-
-
 $(function(){
    var total = function(n){
 	   var price= $(".newitem .information p span").attr("class");//자바속성 값을 스크립트 변수에 저장 방법
